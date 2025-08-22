@@ -2,7 +2,7 @@
 
 ---
 
-Foi divertido!
+Foi divertido e deu para relembrar Streams, Comparators e Collectors.
 
 
 ## TESTE PRÁTICO PROGRAMAÇÃO.
